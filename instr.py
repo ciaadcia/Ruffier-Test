@@ -16,3 +16,5 @@ txt_name = 'Enter Your full name:'
 txt_hintname = "Full name"
 txt_sendresults = 'Send the results'
 txt_finalwin = 'Results'
+
+#tes simpan github
