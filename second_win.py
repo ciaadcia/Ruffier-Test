@@ -1,4 +1,4 @@
-second_win - zira
+#second_win - zira
 class TestWin(QWidget):
   def_init_(self):
   super()._init_()
